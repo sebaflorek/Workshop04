@@ -1,4 +1,4 @@
-const apiKey = 'b3b93904-8653-4c85-b4ad-62ed7b26fa00';
+const apiKey = '9b0b6bed-519a-4e37-a43b-1cd94dea07ba';
 const apiHost = 'https://todo-api.coderslab.pl';
 
 /* --------------------------------- SHOW TASKS --------------------------------- */
